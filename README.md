@@ -1,9 +1,12 @@
 # Sangrid Gallery
 ## Pure CSS Responsive Image Grid
 
-Now create any number of columns on any range of devices! Yes you can create 1, 2, 3, 4, 5, 6, 7, ....12 without need to custom code for any odd or even number of columns in range of 12 columns.
+###### Now create any number of columns on any range of devices with fast loading using css framework! 
+
+Yes you can create 1, 2, 3, 4, 5, 6, 7, ....12 columns without need to write custom code for any odd or even number of columns upto range of 12 columns.
+You dont need any hassle to use javascript as single minified css will load faster on any device.
 Pure CSS based grid to display images as gallery. Whether you are building an image gallery for artistic site/ app or albums or making product picture for e-commerce site this grid will be equally useful.
-This grid can be used with any of your existing framework if any like bootstrap or foundation.
+This grid can be used with any of your existing framework like bootstrap or foundation and there will not be any clash of classes!
 
 ## How to Use?
 1. Download the css [sangridgal.min.css](https://github.com/Sanjibchatterjee/sangridgallery/blob/master/sangridgal.min.css) 
