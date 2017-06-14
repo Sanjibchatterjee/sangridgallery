@@ -18,9 +18,9 @@ This grid can be used with any of your existing framework like bootstrap or foun
 <div class="grid">
 <div class="sanwrapper">
 <div class="sancol ">
- <div class="item"><img src="img/01.jpg" class="img_resp">   </div>
- <div class="item">....</div>
-<div class="item">....</div>
+ <div class="colitem"><img src="img/01.jpg" class="img_resp"></div>
+ <div class="colitem"><img src="img/02.jpg" class="img_resp"></div>
+<div class="colitem">....</div>
 </div>
 </div>
 </div>
