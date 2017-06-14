@@ -9,9 +9,10 @@ Pure CSS based grid to display images as gallery. Whether you are building an im
 This grid can be used with any of your existing framework like bootstrap or foundation and there will not be any clash of classes!
 
 ## How to Use?
+
 1. Download the css [sangridgal.min.css](https://github.com/Sanjibchatterjee/sangridgallery/blob/master/sangridgal.min.css) 
 
-2.Place the "grid" div inside any of your existing html structure or div and follow this following structure.
+2. Place the "grid" div inside any of your existing html structure or div and follow this following structure.
 
 ```
 <div class="grid">
