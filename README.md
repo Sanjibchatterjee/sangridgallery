@@ -42,4 +42,4 @@ Similarly if you need a 4 column gallery for devices under **la** category the c
 If we require 9 number of columns for devices beyond **xl** ie more than 1300px the html can be-
 ```<div class="sancol  sanxlcol9"></div> ```
 
-## Live Example: http://sanjibchatterjee.com/sangrid/
+## Live Example: [Sangrid Gallery](http://sanjibchatterjee.com/sangrid)
